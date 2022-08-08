@@ -1,0 +1,3 @@
+From an elevated PowerShell window, run this command:
+
+Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
